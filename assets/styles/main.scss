@@ -8,3 +8,20 @@
 .container {
   padding: 0 !important;
 }
+
+.text-field--custom-label {
+  color: var(--v-black-base);
+  font-size: 0.857rem;
+  line-height: 1.429rem;
+  font-weight: 600;
+}
+
+.link_button {
+  user-select: none;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.v-snack__wrapper {
+  min-width: 0 !important;
+}

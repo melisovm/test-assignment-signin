@@ -9,7 +9,7 @@
       </div>
       <v-flex class="mt-8">
         <v-btn to="signup" rounded elevation="1" class="mr-4">Sign Up</v-btn>
-        <v-btn fab small color='primary' elevation='1'>
+        <v-btn fab small color='primary' to="signin" elevation='1'>
           <v-icon>mdi-arrow-right</v-icon>
         </v-btn>
       </v-flex>
